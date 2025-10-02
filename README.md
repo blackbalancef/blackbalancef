@@ -4,7 +4,9 @@ I am Ivan Matveev — Python AI Developer.
 
 
 🌍 Open to any collaborations and new opportunities.
-💡 Passionate about building AI-powered products
+
+💡 Passionate about building AI-powered products.
+
 📫 Reach me on [linkedin](https://www.linkedin.com/in/ivan-matveev-3abb39234/)
 
 
