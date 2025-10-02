@@ -1,5 +1,30 @@
 ## Hi there 👋
 
+I am Ivan Matveev — Python AI Developer.
+
+
+🌍 Open to any collaborations and new opportunities.
+💡 Passionate about building AI-powered products
+📫 Reach me on [linkedin](https://www.linkedin.com/in/ivan-matveev-3abb39234/)
+
+
+**Tech stack:**  
+- Python (FastAPI)
+- AI & LLMs (LangChain, RAG, VectorDBs, OpenAI/Anthropic APIs)  
+- Docker, Kubernetes, GitLab CI/CD  
+- PostgreSQL, Redis, RabbitMQ
+
+### 🤝 Open to Collaborations
+I am always open to:  
+- Contributing to **interesting small startups** with strong ideas and ambitious teams.  
+- Building or co-founding **new side projects** in the areas of AI, EdTech, B2C apps, or productivity tools.  
+- Sharing experience and helping with **early-stage prototypes**.  
+
+If you’re working on something exciting, feel free to reach out!
+
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanmatveev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmatveev&layout=compact&theme=radical)
+
 <!--
 **blackbalancef/blackbalancef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
