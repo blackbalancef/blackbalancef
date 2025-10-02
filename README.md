@@ -22,8 +22,6 @@ I am always open to:
 
 If you’re working on something exciting, feel free to reach out!
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanmatveev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmatveev&layout=compact&theme=radical)
 
 <!--
 **blackbalancef/blackbalancef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
