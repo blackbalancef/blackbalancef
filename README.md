@@ -2,6 +2,7 @@
 
 I am Ivan Matveev — Python AI Developer.
 
+[![whoami](https://whoami.goodpipl.com/badge/ivanmatveev)](https://whoami.goodpipl.com/ivanmatveev)
 
 🌍 Open to any collaborations and new opportunities.
 
